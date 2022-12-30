@@ -50,8 +50,6 @@
 	</dependencies>
 
 	
-	<project>
-
 		<build>
 		<plugins>
 			<plugin>
@@ -70,7 +68,6 @@
 	</build>
 		
   <build>
-    ...
     <plugins>
       <plugin>
         <groupId>com.heroku.sdk</groupId>
@@ -79,6 +76,6 @@
       </plugin>
     </plugins>
   </build>
-</project>
+
 
 </project>
